@@ -2722,5 +2722,569 @@
         }
       ]
     }
+  },
+  {
+    "id": "23a8f5c748131dbcd15c93966d6ccc48b5c7be930f68c893dd0a6b626be9aa4ci0",
+    "meta": {
+      "name": "Ceded Wild Rice #227",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "551c93894241f88cbb18f47b8d4ea08c93d50ec82ae3f2ea608c2fe6a8904ff5i0",
+    "meta": {
+      "name": "Ceded Wild Rice #228",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },  
+  {
+    "id": "7d76529d582960dd09b1d44cc200193a889a217f7f251deb7e9859cecd748618i0",
+    "meta": {
+      "name": "Ceded Wild Rice #229",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "54d797648821bfe54dd287ea63f9dea6ea782baec5f62bf53a80eb8ded7e502ei0",
+    "meta": {
+      "name": "Phillip Seefeldt",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "Phillip Seefeldt"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc5867d5cc4794c14566c70d60c5cc20d415f9c0f78dc54e2819df7825cf28fbi0",
+    "meta": {
+      "name": "Steven Chihak",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "Steven Chihak"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2a4b2714a6671f6f8dee741ed0296254088de9ae55d014ff7bb8e8fdd03ae089i0",
+    "meta": {
+      "name": "William Landmark",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "William Landmark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "102cf4c6077c701473043e9bfc437c30b1656d5ef5cecbfb00ba8f77a4edf947i0",
+    "meta": {
+      "name": "Jacob Swedberg",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "Jacob Swedberg"
+        }
+      ]
+    }
+  },
+  {
+    "id": "593f9615083698b23c0c1c6c7503b4067acb46d78084ad467d269a1602f87b70i0",
+    "meta": {
+      "name": "Reino Rousu",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "Reino Rousu"
+        }
+      ]
+    }
+  },
+  {
+    "id": "530c6ceb1d3228fd8567cd01fc6f0ad0e9a3a9ec35dc6fec6c256fa57918e710i0",
+    "meta": {
+      "name": "TREATY WITH THE CHIPPEWA, 1837",
+      "attributes": [
+        {
+          "trait_type": "Reports",
+          "value": "TREATY WITH THE CHIPPEWA, 1837"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3c69c7cc3a57c14090b69cec11e2467bc2a8b8e192c10e826fe62856fc351abi0",
+    "meta": {
+      "name": "Ceded Wild Rice #230",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d6cf767341dc66c236db8839c23cf321b045417c893f76c69640d86d4b41a3f5i0",
+    "meta": {
+      "name": "Ceded Wild Rice #231",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a663ac0852d253afdc01bb83c1985b557c29c066ec3fe34b08070d3656199317i0",
+    "meta": {
+      "name": "Ceded Wild Rice #232",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "138c249c2057dedfa4da440e296816f04228b562a8d5a57746cf8949aade0f84i0",
+    "meta": {
+      "name": "Ceded Wild Rice #233",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13b4ab14ba6362825299216db19fd2402065a5e72439f97e55867b2fc3b86de7i0",
+    "meta": {
+      "name": "Ceded Wild Rice #234",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "59cfe7dd9d96a290c2ab6aa906919bb227b5cf630fd85bbc9094cd2e9a072274i0",
+    "meta": {
+      "name": "Ceded Wild Rice #235",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "81156911db206693e3ea5ec475f7d529dddd50405592da7e8eb8722948de07d2i0",
+    "meta": {
+      "name": "Ceded Wild Rice #236",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  }, 
+  {
+    "id": "bf99edabbd75a9a2ec4dbe5fd05026a27c561d31b89ed87cb29304501ae76299i0",
+    "meta": {
+      "name": "Ceded Wild Rice #237",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "94bb812da508fea8c0152589b8cdb1335489878b27f10f74059cb3e32e976de8i0",
+    "meta": {
+      "name": "Ceded Wild Rice #238",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f101e6181975ab585d0eca844521cec05179614f41aed38a839197d0e6f44792i0",
+    "meta": {
+      "name": "Ceded Wild Rice #239",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fed6f5d95462074c0f447a6dcbc9564abe0160bbda22a65587cf2061e10228f3i0",
+    "meta": {
+      "name": "Ceded Wild Rice #240",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "04afa9105acde14867670dc2e52d4303d8d52bf9b5e0eeaf97f7089f6fa14c1ai0",
+    "meta": {
+      "name": "Ceded Wild Rice #241",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cca172375902c493dcccd54866565547ce1a4595bb889b42f4ebca6b047b49fai0",
+    "meta": {
+      "name": "Ceded Wild Rice #242",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5426507a563b60ff0d2f7418fac84948ee286a8cb799178f1ff1e92425df2e53i0",
+    "meta": {
+      "name": "Ceded Wild Rice #243",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d896189997e2ac6367e0ca89469952c83e40b8178c6f66b4bf80ecdc0ae14d0i0",
+    "meta": {
+      "name": "Ceded Wild Rice #244",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5391c5d603a2355c452082e26d6dc11f7f57dc3a5cfa8052db7591d95a3bc0f3i0",
+    "meta": {
+      "name": "Ceded Wild Rice #245",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f0c078204c1bcfff6eed30d3a9f7173f4336971f133d0e1bea0e69272954f79i0",
+    "meta": {
+      "name": "Ceded Wild Rice #246",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "78c8d502f4816e4fc051f8758e3e767791def403c20ec81e11be2506411ab360i0",
+    "meta": {
+      "name": "Ceded Wild Rice #247",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "41612b3ca1ee51bed33d2199a07ca2efa1120df97c93badae023d1223fa4dce0i0",
+    "meta": {
+      "name": "Ceded Wild Rice #248",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "48f0b8e1672f33f62de4c28e5d9045693d8c04fa2d5dfc6acd70310b9ee8b7a1i0",
+    "meta": {
+      "name": "Ceded Wild Rice #249",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7672c6853e02fcb75b002c872bf97bbc7d83557ef16ce035ce83e1dc2bb09998i0",
+    "meta": {
+      "name": "Ceded Wild Rice #250",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed64815037b3a2b037789f916d62c800f8209db8302ee63ccd7f99af1d99ffdbi0",
+    "meta": {
+      "name": "Ceded Wild Rice #251",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "054941173aa3ae7b62527a0778307a493546ac1160d80c5e26c6ac1f7ac33c97i0",
+    "meta": {
+      "name": "Ceded Wild Rice #252",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "450372b255740201f247b64a2168dd79e9a58ff60c6aa9f7d8eb0945f6b2a787i0",
+    "meta": {
+      "name": "Ceded Wild Rice #253",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5588804b8e8d4a28e3d42bbe01b5e9f262f3f107b7b17a93e95205eac0e689d9i0",
+    "meta": {
+      "name": "Ceded Wild Rice #254",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dae63c0c57afc21b541b2874fe07d7748f7ed1b783045f5a458e6cf9d6a88f8i0",
+    "meta": {
+      "name": "Ceded Wild Rice #255",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5197c67fe814c5caf62497efe7f3d86cbaf5865e860445838ca14804ac5927e3i0",
+    "meta": {
+      "name": "Ceded Wild Rice #256",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e0186d54e2a0cb55ebcbc357f5f99c052fac244d795d332aa29c28555ad79e5i0",
+    "meta": {
+      "name": "Ceded Wild Rice #257",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dbd908e10c8409f0fa8157193960e73911344cf1efdd152daee02a00468f1029i0",
+    "meta": {
+      "name": "Ceded Wild Rice #258",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "861ee4f11c71a1e246d3f79c7b06accb5c04d97531511147143241fb0b59401fi0",
+    "meta": {
+      "name": "Ceded Wild Rice #259",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8ba9f9ed3fbff402c82ab8733fa8a45a7c7988a2cf1d65c7c2a6a0bc910e3c6i0",
+    "meta": {
+      "name": "Ceded Wild Rice #260",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dbbc7e06dfeae7ab27008defaf4bf4b5d48a03e9c6cf83a28764935d2154a7e0i0",
+    "meta": {
+      "name": "Ceded Wild Rice #261",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5c506de2cfbb808c7c948993096648f8576aa24784c40d68eb98600578cdd128i0",
+    "meta": {
+      "name": "Ceded Wild Rice #262",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df00401e58ed90e22cb14e6e1fdc2b23bbbfa3be1a2e4602589582895b068988i0",
+    "meta": {
+      "name": "Ceded Wild Rice #263",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c4705206a22d67bb9d7e13d801fb67ffbccdf21aa807e1c38103ae36752b1399i0",
+    "meta": {
+      "name": "Ceded Wild Rice #264",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c47885345b5e71408e4a1706e74728a379d6ede7f564e04adb04e01ca7bd39fci0",
+    "meta": {
+      "name": "Ceded Wild Rice #265",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46f44d48bcbdde8f58ff5119a64844b304bb56967199d8ac100e8048037d5eb0i0",
+    "meta": {
+      "name": "Ceded Wild Rice #266",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4ef9d830123875d02af6d45ffb7389d0e82bff52d30f97728345e6af42678759i0",
+    "meta": {
+      "name": "Ceded Wild Rice #267",
+      "attributes": [
+        {
+          "trait_type": "Value in pounds",
+          "value": "One Singal Grain of Rice"
+        }
+      ]
+    }
   }
 ]
